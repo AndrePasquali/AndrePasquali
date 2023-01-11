@@ -1,5 +1,5 @@
 
-### Hi, my name is André Pasquali
+### Hi, my name is André Pasquali. I'm Game Developer, expert with Unity, C#, .NET, Node, React. 
 
 # Connect with me
 <a href="https://ca.linkedin.com/in/andrerpasquali">
